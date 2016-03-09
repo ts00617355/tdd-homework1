@@ -8,6 +8,6 @@
   {"id": 7, "cost": 7, "revenue": 17, "sellPrice": 27},
   {"id": 8, "cost": 8, "revenue": 18, "sellPrice": 28},
   {"id": 9, "cost": 9, "revenue": 19, "sellPrice": 29},
-  {"id": 10, "cost": 1 , "revenue": 20, "sellPrice": 30},
-  {"id": 11, "cost": 1 , "revenue": 21, "sellPrice": 31}
+  {"id": 10, "cost": 10, "revenue": 20, "sellPrice": 30},
+  {"id": 11, "cost": 11, "revenue": 21, "sellPrice": 31}
 ]
