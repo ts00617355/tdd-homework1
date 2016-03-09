@@ -1,0 +1,13 @@
+{
+    "name": "sandytseng/tdd-day1-homework",
+    "description": "2016-03-07",
+    "require": {
+        "phpunit/phpunit": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "sandytseng",
+            "email": "winson58kimo@gmail.com"
+        }
+    ]
+}
